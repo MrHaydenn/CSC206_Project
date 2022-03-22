@@ -11,7 +11,7 @@ a = int(0)
      
 print('Welcome to the prime number finding program! Lower interval is set to 0.')
 print('Enter upper bound of the interval below 10000: ')
-b = int(input())
+
 
 begin_time = datetime.datetime.now()
 if b > 10000:
@@ -35,6 +35,8 @@ else:
             if (flag == 1):
                 print(i, end = " ")
                 primes.append(i)
+                
+            
                 
 print('\nThe program took',datetime.datetime.now() - begin_time,'to execute.')
                 

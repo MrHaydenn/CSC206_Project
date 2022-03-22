@@ -6,14 +6,26 @@
     <title></title>
 </head>
 <body>
-    <h1> Welcome to the prime number generator.</h1>
-    <label for="quantity">Enter a number below 10000:</label>
 
-    {% for message in get_flashed_messages()%}
-       <p> {{messager}}</p>
-    {% endfor %}
+    <ul id="navigation">
+        {% for item in navigation %}
+        <li><a href="{{ item.href }}">{{ item.caption }}</a></li>
+        {% endfor %}
 
-    <input type="number" id="quantity" min="0" max="10000">
-    <input type="Submit" id="quantity" min="0" max="10000">
+
+
+
+
+
+
+        <h1> Welcome to the prime number generator.</h1>
+        <label for="quantity">Enter a number below 10000:</label>
+
+
+        <form method="POST">
+
+            <input name="variable">
+            <input type="submit" id="quantity" min="0" max="10000">
+        </form>
 </body>
 </html>
