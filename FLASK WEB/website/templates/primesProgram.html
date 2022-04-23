@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block title %}Primes Program{% endblock %} {% block content
+    %}
+
+
+
+    <h1 align="center">Primes Program</h1>
+
+    <form method="POST"> 
+        <h3 align="left">Enter an upper limit.</h3>
+        <div class="form-group">
+          <input 
+          type="number"
+          id="get_primes" />
+
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+
+
+      <h2>Prime Numbers Generated: {{ results }}</h2>
+    </form>
+
+    {% endblock %}

@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block title %}Database{% endblock %} {% block content
+    %}
+
+    
+
+    <h1 align="center">Richest Athletes Database</h1>
+
+    <body>
+        <div align="center"</div>
+            <table>
+                <h1 align="left">
+                    {% for table in tables %}
+                    <h2 align="left">{{titles[loop.table]}}</h2>
+                    {{table | safe}}
+
+                    {% endfor %}
+                </h1>
+
+ 
+            </table>
+    
+
+    {% endblock %}
