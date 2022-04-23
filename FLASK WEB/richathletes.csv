@@ -1,302 +1,302 @@
-,Unnamed: 0,name,nationality,currentrank,prevyearrank,sport,year,earnings
-0,0,Mike Tyson,USA,1,,boxing,1990,28.6
-1,1,Buster Douglas,USA,2,,boxing,1990,26.0
-2,2,Sugar Ray Leonard,USA,3,,boxing,1990,13.0
-3,3,Ayrton Senna,Brazil,4,,auto racing,1990,10.0
-4,4,Alain Prost,France,5,,auto racing,1990,9.0
-5,5,Jack Nicklaus,USA,6,,golf,1990,8.6
-6,6,Greg Norman,Australia,7,,golf,1990,8.5
-7,7,Michael Jordan,USA,8,,basketball,1990,8.1
-8,8,Arnold Palmer,USA,8,,golf,1990,8.1
-9,9,Evander Holyfield,USA,8,,boxing,1990,8.1
-10,10,Evander Holyfield,USA,1,8,boxing,1991,60.5
-11,11,Mike Tyson,USA,2,1,boxing,1991,31.5
-12,12,Michael Jordan,USA,3,8,basketball,1991,16.0
-13,13,George Foreman,USA,4,>30,boxing,1991,14.5
-14,14,Ayrton Senna,Brazil,5,4,auto racing,1991,13.0
-15,15,Alain Prost,France,6,5,auto racing,1991,11.0
-16,16,"Donovan ""Razor"" Ruddock",Canada,7,>30,boxing,1991,10.2
-17,17,Arnold Palmer,USA,8,8,golf,1991,9.3
-18,18,Nigel Mansell,UK,9,12,auto racing,1991,9.0
-19,19,Sugar Ray Leonard,USA,10,6,golf,1991,8.5
-20,20,Michael Jordan,USA,1,3,Basketball,1992,35.9
-21,21,Evander Holyfield,USA,2,1,Boxing,1992,28.0
-22,22,Ayrton Senna,Brazil,3,5,Auto Racing,1992,22.0
-23,23,Nigel Mansell,UK,4,9,Auto Racing,1992,14.5
-24,24,Arnold Palmer,USA,5,8,Golf,1992,11.1
-25,25,Andre Agassi,USA,6,17,Tennis,1992,11.0
-26,26,Joe Montana,USA,7,13,NFL,1992,9.5
-27,27,Sugar Ray Leonard,USA,8,10,Golf,1992,9.2
-28,28,Jim Courier,USA,9,>40,Tennis,1992,9.0
-29,29,Monica Seles,USA,10,12,Tennis,1992,8.5
-30,30,Michael Jordan,USA,1,1,Basketball,1993,36.0
-31,31,Riddick Bowe,USA,2,>40,Boxing,1993,25.0
-32,32,Ayrton Senna,Brazil,3,3,Auto racing,1993,18.5
-33,33,Alain Prost,France,4,>40,Auto Racing,1993,16.0
-34,34,George Foreman,USA,5,19,Boxing,1993,15.8
-35,35,Shaquille O'Neal,USA,6,>40,NBA,1993,15.2
-36,36,Lennox Lewis,USA,7,>40,Boxing,1993,15.0
-37,37,Cecil Fielder,USA,8,40,Baseball,1993,12.7
-38,38,Jim Courier,USA,9,9,Tennis,1993,12.6
-39,39,Joe Montana,USA,10,7,NFL,1993,11.5
-40,40,Michael Jordan,USA,1,1,Basketball,1994,30.0
-41,41,Shaq O'Neal,USA,2,6,Basketball,1994,16.7
-42,42,Jack Nicklaus,USA,3,13,Golf,1994,14.8
-43,43,Arnold Palmer,USA,4,11,Golf,1994,13.6
-44,44,Gerhard Berger,Austria,5,30,Auto Racing,1994,13.5
-45,45,Wayne Gretzky,Canada,5,22,Ice Hockey,1994,13.5
-46,46,Michael Moorer,USA,7,>40,Boxing,1994,12.1
-47,47,Evander Holyfield,USA,8,12,Boxing,1994,12.0
-48,48,Andre Agassi,USA,9,20,Tennis,1994,11.4
-49,49,Nigel Mansell,UK,10,19,Auto Racing,1994,11.3
-50,50,Michael Jordan,USA,1,1,basketball,1995,43.9
-51,51,Mike Tyson,USA,2,not ranked,boxing,1995,40.0
-52,52,Deion Sanders,USA,3,38,American Football / Baseball,1995,22.5
-53,53,Riddick Bowe,USA,4,not ranked,boxing,1995,22.2
-54,54,Shaquille O'Neal,USA,5,2,basketball,1995,21.9
-55,55,George Foreman,USA,6,15,boxing,1995,18.0
-56,56,Andre Agassi,USA,7,9,tennis,1995,16.0
-57,57,Sugar Ray Leonard,USA,8,3,golf,1995,15.1
-58,58,Michael Schumacher,Germany,9,30,auto racing,1995,15.0
-59,59,Wayne Gretzky,Canada,10,5,ice hockey,1995,14.5
-60,60,Mike Tyson,USA,1,2,Boxing,1996,75.0
-61,61,Michael Jordan,USA,2,1,Basketball,1996,52.6
-62,62,Michael Schumacher,Germany,3,9,F1 Motorsports,1996,33.0
-63,63,Shaquille O'Neal,USA,4,5,Basketball,1996,24.4
-64,64,Emmit Smith,USA,5,not ranked,NFL,1996,16.5
-65,65,Evander Holyfield,USA,6,14,Boxing,1996,15.5
-66,66,Andre Agassi,USA,7,7,Tennis,1996,15.2
-67,67,Arnold Palmer,USA,8,11,Golf,1996,15.1
-68,68,Dennis Rodman,USA,9,not ranked,Basketball,1996,12.9
-69,69,Patrick Ewing,USA,9,19,Basketball,1996,12.9
-70,70,Michael Jordan,USA,1,2,Basketball,1997,78.3
-71,71,Evander Holyfield,USA,2,6,Boxing,1997,54.3
-72,72,Oscar De La Hoya,USA,3,17,Boxing,1997,38.0
-73,73,Michael Schumacher,Germany,4,3,F1 Motorsports,1997,35.0
-74,74,Mike Tyson,USA,5,1,Boxing,1997,27.0
-75,75,Tiger Woods,USA,6,26,Golf,1997,26.1
-76,76,Shaquille O'Neal,USA,7,4,Basketball,1997,25.4
-77,77,Dale Earnhardt,USA,8,20,NASCAR,1997,19.1
-78,78,Joe Sakic,Canada,9,none,Hockey,1997,17.9
-79,79,Grant Hill,USA,10,18,Basketball,1997,17.0
-80,80,Michael Jordan,USA,1,,Basketball,1998,69.0
-81,81,Michael Schumacher,Germany,2,,F1 Motorsports,1998,38.0
-82,82,Sergei Federov,Russia,3,,Ice Hockey,1998,29.8
-83,83,Tiger Woods,USA,4,,Golf,1998,26.8
-84,84,Dale Earnhardt,USA,5,,NASCAR,1998,24.1
-85,85,Grant Hill,USA,6,,Basketball,1998,21.6
-86,86,Oscar De La Hoya,USA,7,,Boxing,1998,18.5
-87,87,Patrick Ewing,USA,8,,Basketball,1998,18.3
-88,88,Arnold Palmer,USA,9,,Golf,1998,18.1
-89,89,Gary Sheffield,USA,10,,Baseball,1998,17.2
-90,90,Michael Schumacher,Germany,1,2,Auto Racing,1999,49.0
-91,91,Tiger Woods,USA,2,4,Golf,1999,47.0
-92,92,Oscar De La Hoya,USA,3,7,Boxing,1999,43.5
-93,93,Michael Jordan,USA,4,1,Basketball,1999,40.0
-94,94,Evander Holyfield,USA,5,>10,Boxing,1999,35.5
-95,95,Mike Tyson,USA,6,>10,Boxing,1999,33.0
-96,96,Shaq O'Neal,USA,7,>10,Basketball,1999,31.0
-97,97,Lennox Lewis,USA,8,>10,Boxing,1999,29.0
-98,98,Dale Earnhardt,USA,9,5,Auto Racing,1999,26.5
-99,99,Grant Hill,USA,10,6,Basketball,1999,23.0
-100,100,Michael Schumacher,Germany,1,1,Auto Racing,2000,59.0
-101,101,Tiger Woods,USA,2,2,Golf,2000,53.0
-102,102,Mike Tyson,USA,3,6,Boxing,2000,48.0
-103,103,Michael Jordan,USA,4,4,Basketball,2000,37.0
-104,104,Grant Hill,USA,5,10,Basketball,2000,26.0
-105,105,Dale Earnhardt,USA,6,9,Auto Racing (Nascar),2000,24.5
-106,106,Shaq O'Neal,USA,7,7,Basketball,2000,24.0
-107,107,Lennox Lewis,USA,8,8,Boxing,2000,23.0
-108,108,Oscar De La Hoya,USA,9,3,Boxing,2000,23.0
-109,109,Kevin Garnett,USA,10,>10,Basketball,2000,21.0
-110,110,Tiger Woods,USA,1,2,Golf,2002,69.0
-111,111,Michael Schumacher,Germany,2,1,F1 Motorsports,2002,67.0
-112,112,Michael Jordan,USA,3,4,Basketball,2002,36.0
-113,113,Lennox Lewis,USA,4,8,Boxing,2002,28.0
-114,114,Grant Hill,USA,5,5,Basketball,2002,24.0
-115,115,Shaquille O'Neal,USA,5,7,Basketball,2002,24.0
-116,116,Mike Tyson,USA,7,3,Boxing,2002,23.0
-117,117,Kevin Garnett,USA,7,10,Basketball,2002,23.0
-118,118,Kobe Bryant,USA,9,>10,Basketball,2002,22.0
-119,119,Jacques Villeneuve,Canada,10,>10,Auto Racing,2002,20.0
-120,120,Jeff Gordon,USA,10,>10,Auto Racing (Nascar),2002,20.0
-121,121,Tiger Woods,USA,1,1,Golf,2003,78.0
-122,122,Michael Schumacher,Germany,2,2,F1 Motorsports,2003,75.0
-123,123,Michael Jordan,USA,3,3,Basketball,2003,35.0
-124,124,Shaq O'Neal,USA,4,5,Basketball,2003,30.5
-125,125,Oscar De La Hoya,USA,5,>10,Boxing,2003,30.0
-126,126,Kevin Garnett,USA,6,7,Basketball,2003,28.0
-127,127,Alex Rodriguez,USA,7,>10,Baseball,2003,26.0
-128,128,Grant Hill,USA,8,5,Basketball,2003,25.5
-129,129,Andre Agassi,USA,9,>10,Tennis,2003,24.0
-130,130,Jacques Villeneuve,Canada,10,10,Auto Racing,2003,23.0
-131,131,Tiger Woods,USA,1,1,golf,2004,80.3
-132,132,Michael Schumacher,Germany,2,2,F1 racing,2004,80.0
-133,133,Peyton Manning,USA,3,>10,American Football,2004,42.0
-134,134,Michael Jordan,USA,4,3,basketball,2004,35.0
-135,135,Shaquille O'Neal,USA,5,4,basketball,2004,31.9
-136,136,Kevin Garnett,USA,6,6,basketball,2004,29.7
-137,137,Andre Agassi,USA,7,9,tennis,2004,28.2
-138,138,David Beckham,UK,8,>10,soccer,2004,28.0
-139,139,Alex Rodriguez,USA,9,7,baseball,2004,26.2
-140,140,Kobe Bryant,USA,10,>10,basketball,2004,26.1
-141,141,Tiger Woods,USA,1,1,golf,2005,87.0
-142,142,Michael Schumacher,Germany,2,2,F1 racing,2005,60.0
-143,143,Oscar De La Hoya,USA,3,>10,boxing,2005,38.0
-144,144,Michael Vick,USA,4,>10,American Football,2005,37.5
-145,145,Shaquille O'Neal,USA,5,5,basketball,2005,33.4
-146,146,Michael Jordan,USA,6,4,basketball,2005,33.0
-147,147,David Beckham,UK,7,8,soccer,2005,32.5
-148,148,Kobe Bryant,USA,8,10,basketball,2005,28.8
-149,149,Lance Armstrong,USA,9,>10,cycling,2005,28.0
-150,150,Valentino Rossi,Italy,9,>10,motorcycle gp,2005,28.0
-151,151,Tiger Woods,USA,1,1,golf,2006,90.0
-152,152,Michael Schumacher,Germany,2,2,F1 racing,2006,58.0
-153,153,Muhammad Ali,USA,3,>10,boxing,2006,55.0
-154,154,Phil Mickelson,USA,4,>10,golf,2006,47.0
-155,155,Michael Jordan,USA,5,6,basketball,2006,32.0
-156,156,Kobe Bryant,USA,6,8,basketball,2006,31.0
-157,157,Shaquille O'Neal,USA,7,5,basketball,2006,30.0
-158,158,Valentino Rossi,Italy,8,9,motorcycle gp,2006,30.0
-159,159,Alex Rodriguez,USA,9,>10,baseball,2006,29.0
-160,160,Tom Brady,USA,9,>10,American Football,2006,29.0
-161,161,Tiger Woods,USA,1,1,golf,2007,100.0
-162,162,Oscar De La Hoya,USA,2,>10,boxing,2007,43.0
-163,163,Phil Mickelson,USA,3,4,golf,2007,42.0
-164,164,Kimi Raikkonen,Finland,4,>10,F1 racing,2007,40.0
-165,165,Michael Schumacher,Germany,5,2,F1 racing,2007,36.0
-166,166,David Beckham,UK,6,>10,soccer,2007,33.0
-167,167,Kobe Bryant,USA,6,>10,basketball,2007,33.0
-168,168,Shaquille O'Neal,USA,8,7,basketball,2007,32.0
-169,169,Ronaldinho,Brazil,9,>10,soccer,2007,31.0
-170,170,Michael Jordan,USA,9,5,basketball,2007,31.0
-171,171,Tiger Woods,USA,1,1,golf,2008,115.0
-172,172,David Beckham,UK,2,6,soccer,2008,50.0
-173,173,Michael Jordan,USA,3,9,basketball,2008,45.0
-174,174,Phil Mickelson,USA,3,3,golf,2008,45.0
-175,175,Kimi Raikkonen,Finland,5,4,F1 racing,2008,44.0
-176,176,Kobe Bryant,USA,6,7,basketball,2008,39.0
-177,177,LeBron James,USA,7,>10,basketball,2008,38.0
-178,178,Ronaldinho,Brazil,8,9,soccer,2008,37.0
-179,179,Valentino Rossi,Italy,9,>10,motorcycle gp,2008,35.0
-180,180,Roger Federer,Switzerland,9,>10,tennis,2008,35.0
-181,181,Tiger Woods,USA,1,1,golf,2009,110.0
-182,182,Kobe Bryant,USA,2,6,basketball,2009,45.0
-183,183,Michael Jordan,USA,2,3,basketball,2009,45.0
-184,184,Kimi Raikkonen,Finland,2,5,F1 racing,2009,45.0
-185,185,David Beckham,UK,5,2,soccer,2009,42.0
-186,186,LeBron James,USA,6,7,basketball,2009,40.0
-187,187,Phil Mickelson,USA,6,3,golf,2009,40.0
-188,188,Manny Pacquiao,Philippines,6,>10,boxing,2009,40.0
-189,189,Valentino Rossi,Italy,9,9,motorcycle gp,2009,35.0
-190,190,Dale Earnhardt Jr.,USA,10,>10,NASCAR,2009,34.0
-191,191,Tiger Woods,USA,1,1,golf,2010,105.0
-192,192,Floyd Mayweather,USA,2,>10,boxing,2010,65.0
-193,193,Kobe Bryant,USA,3,2,basketball,2010,48.0
-194,194,Phil Mickelson,USA,4,6,golf,2010,46.0
-195,195,David Beckham,UK,5,5,soccer,2010,43.7
-196,196,Roger Federer,Switzerland,6,>10,tennis,2010,43.0
-197,197,LeBron James,USA,7,6,basketball,2010,42.8
-198,198,Manny Pacquiao,Philippines,8,6,boxing,2010,42.0
-199,199,Eli Manning,USA,9,>10,American Football,2010,39.9
-200,200,Terrell Suggs,USA,10,>10,American Football,2010,38.3
-201,201,Tiger Woods,USA,1,1,golf,2011,75.0
-202,202,Kobe Bryant,USA,2,3,basketball,2011,53.0
-203,203,LeBron James,USA,3,7,basketball,2011,48.0
-204,204,Roger Federer,Switzerland,4,6,tennis,2011,47.0
-205,205,Phil Mickelson,USA,5,4,golf,2011,46.5
-206,206,David Beckham,UK,6,5,soccer,2011,40.0
-207,207,Cristiano Ronaldo,Portugal,7,13,soccer,2011,38.0
-208,208,Alex Rodriguez,Dominican,8,12,baseball,2011,35.0
-209,209,Michael Schumacher,Germany,9,>20,F1 racing,2011,34.0
-210,210,Lionel Messi,Argentina,10,>20,soccer,2011,32.3
-211,211,Floyd Mayweather,USA,1,?,Boxing,2012,85.0
-212,212,Manny Pacquiao,Filipino,2,24,Boxing,2012,62.0
-213,213,Tiger Woods,USA,3,1,Golf,2012,59.4
-214,214,LeBron James,USA,4,3,Basketball,2012,53.0
-215,215,Roger Federer,Switzerland,5,4,Tennis,2012,52.7
-216,216,Kobe Bryant,USA,6,2,Basketball,2012,52.3
-217,217,Phil Mickelson,USA,7,5,Golf,2012,47.8
-218,218,David Beckham,UK,8,6,Soccer,2012,46.0
-219,219,Cristiano Ronaldo,Portugal,9,21,Soccer,2012,42.5
-220,220,Peyton Manning,USA,10,7,American Football,2012,42.4
-221,221,Tiger Woods,USA,1,3,Golf,2013,78.1
-222,222,Roger Federer,Switzerland,2,5,Tennis,2013,71.5
-223,223,Kobe Bryant,USA,3,6,Basketball,2013,61.9
-224,224,LeBron James,USA,4,4,Basketball,2013,59.8
-225,225,Drew Brees,USA,5,?,American Football,2013,51.0
-226,226,Aaron Rodgers,USA,6,?,American Football,2013,49.0
-227,227,Phil Mickelson,USA,7,7,Golf,2013,48.7
-228,228,David Beckham,UK,8,8,Soccer,2013,47.2
-229,229,Cristiano Ronaldo,Portugal,9,9,Soccer,2013,44.0
-230,230,Lionel Messi,Argentina,10,11,Soccer,2013,41.3
-231,231,Floyd Mayweather,USA,1,14,Boxing,2014,105.0
-232,232,Cristiano Ronaldo,Portugal,2,9,Soccer,2014,80.0
-233,233,LeBron James,USA,3,4,Basketball,2014,72.3
-234,234,Lionel Messi,Argentina,4,10,Soccer,2014,64.7
-235,235,Kobe Bryant,USA,5,3,Basketball,2014,61.5
-236,236,Tiger Woods,USA,6,1,Golf,2014,61.2
-237,237,Roger Federer,Switzerland,7,2,Tennis,2014,56.2
-238,238,Phil Mickelson,USA,8,7,Golf,2014,53.2
-239,239,Rafael Nadal,Spain,9,>14,Tennis,2014,44.5
-240,240,Matt Ryan,USA,10,>100,American Football,2014,43.8
-241,241,Floyd Mayweather,USA,1,1,Boxing,2015,300.0
-242,242,Manny Pacquiao,Philippines,2,11,Boxing,2015,160.0
-243,243,Cristiano Ronaldo,Portugal,3,2,Soccer,2015,79.6
-244,244,Lionel Messi,Argentina,4,4,Soccer,2015,73.8
-245,245,Roger Federer,Switzerland,5,7,Tennis,2015,67.0
-246,246,LeBron James,USA,6,3,Basketball,2015,64.8
-247,247,Kevin Durant,USA,7,20,Basketball,2015,54.2
-248,248,Phil Mickelson,USA,8,8,Golf,2015,50.8
-249,249,Tiger Woods,USA,9,6,Golf,2015,50.6
-250,250,Kobe Bryant,USA,10,5,Basketball,2015,49.5
-251,251,Cristiano Ronaldo,Portugal,1,3,Soccer,2016,88.0
-252,252,Lionel Messi,Argentina,2,4,Soccer,2016,81.4
-253,253,LeBron James,USA,3,6,Basketball,2016,77.2
-254,254,Roger Federer,Switzerland,4,5,Tennis,2016,67.8
-255,255,Kevin Durant,USA,5,7,Basketball,2016,56.2
-256,256,Novak Djokovic,Serbia,6,13,Tennis,2016,55.8
-257,257,Cam Newton,USA,7,>20,American Football,2016,53.1
-258,258,Phil Mickelson,USA,8,8,Golf,2016,52.9
-259,259,Jordan Spieth,USA,9,>20,Golf,2016,52.8
-260,260,Kobe Bryant,USA,10,10,Basketball,2016,50.0
-261,261,Cristiano Ronaldo,Portugal,1,1,Soccer,2017,93.0
-262,262,LeBron James,USA,2,3,Basketball,2017,86.2
-263,263,Lionel Messi,Argentina,3,2,Soccer,2017,80.0
-264,264,Roger Federer,Switzerland,4,4,Tennis,2017,64.0
-265,265,Kevin Durant,USA,5,5,Basketball,2017,60.6
-266,266,Andrew Luck,USA,6,,American Football,2017,50.0
-267,267,Rory McIlroy,Northern Ireland,6,17,Golf,2017,50.0
-268,268,Stephen Curry,USA,8,,Basketball,2017,47.3
-269,269,James Harden,USA,9,,Basketball,2017,46.6
-270,270,Lewis Hamilton,UK,10,,auto racing,2017,46.0
-271,271,Floyd Mayweather,USA,1,>100,Boxing,2018,285.0
-272,272,Lionel Messi,Argentina,2,3,Soccer,2018,111.0
-273,273,Cristiano Ronaldo,Portugal,3,1,Soccer,2018,108.0
-274,274,Conor McGregor,Ireland,4,24,MMA,2018,99.0
-275,275,Neymar,Brazil,5,18,Soccer,2018,90.0
-276,276,LeBron James,USA,6,2,Basketball,2018,85.5
-277,277,Roger Federer,Switzerland,7,4,Tennis,2018,77.2
-278,278,Stephen Curry,USA,8,8,Basketball,2018,76.9
-279,279,Matt Ryan,USA,9,>100,American Football,2018,67.3
-280,280,Matthew Stafford,USA,10,>100,American Football,2018,59.5
-281,281,Lionel Messi,Argentina,1,2,Soccer,2019,127.0
-282,282,Cristiano Ronaldo,Portugal,2,3,Soccer,2019,109.0
-283,283,Neymar,Brazil,3,5,Soccer,2019,105.0
-284,284,Canelo Alvarez,Mexico,4,15,Boxing,2019,94.0
-285,285,Roger Federer,Switzerland,5,7,Tennis,2019,93.4
-286,286,Russell Wilson,USA,6,??,American Football,2019,89.5
-287,287,Aaron Rogers,USA,7,??,American Football,2019,89.3
-288,288,LeBron James,USA,8,6,Basketball,2019,89.0
-289,289,Stephen Curry,USA,9,8,Basketball,2019,79.8
-290,290,Kevin Durant,USA,10,11,Basketball,2019,65.4
-291,291,Roger Federer,Switzerland,1,5,Tennis,2020,106.3
-292,292,Cristiano Ronaldo,Portugal,2,2,Soccer,2020,105.0
-293,293,Lionel Messi,Argentina,3,1,Soccer,2020,104.0
-294,294,Neymar,Brazil,4,3,Soccer,2020,95.5
-295,295,LeBron James,USA,5,8,Basketball,2020,88.2
-296,296,Stephen Curry,USA,6,9,Basketball,2020,74.4
-297,297,Kevin Durant,USA,7,10,Basketball,2020,63.9
-298,298,Tiger Woods,USA,8,11,Golf,2020,62.3
-299,299,Kirk Cousins,USA,9,>100,American Football,2020,60.5
-300,300,Carson Wentz,USA,10,>100,American Football,2020,59.1
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,name,nationality,currentrank,prevyearrank,sport,year,earnings
+0,0,0,0,Mike Tyson,USA,1,,boxing,1990,28.6
+1,1,1,1,Buster Douglas,USA,2,,boxing,1990,26.0
+2,2,2,2,Sugar Ray Leonard,USA,3,,boxing,1990,13.0
+3,3,3,3,Ayrton Senna,Brazil,4,,auto racing,1990,10.0
+4,4,4,4,Alain Prost,France,5,,auto racing,1990,9.0
+5,5,5,5,Jack Nicklaus,USA,6,,golf,1990,8.6
+6,6,6,6,Greg Norman,Australia,7,,golf,1990,8.5
+7,7,7,7,Michael Jordan,USA,8,,basketball,1990,8.1
+8,8,8,8,Arnold Palmer,USA,8,,golf,1990,8.1
+9,9,9,9,Evander Holyfield,USA,8,,boxing,1990,8.1
+10,10,10,10,Evander Holyfield,USA,1,8,boxing,1991,60.5
+11,11,11,11,Mike Tyson,USA,2,1,boxing,1991,31.5
+12,12,12,12,Michael Jordan,USA,3,8,basketball,1991,16.0
+13,13,13,13,George Foreman,USA,4,>30,boxing,1991,14.5
+14,14,14,14,Ayrton Senna,Brazil,5,4,auto racing,1991,13.0
+15,15,15,15,Alain Prost,France,6,5,auto racing,1991,11.0
+16,16,16,16,"Donovan ""Razor"" Ruddock",Canada,7,>30,boxing,1991,10.2
+17,17,17,17,Arnold Palmer,USA,8,8,golf,1991,9.3
+18,18,18,18,Nigel Mansell,UK,9,12,auto racing,1991,9.0
+19,19,19,19,Sugar Ray Leonard,USA,10,6,golf,1991,8.5
+20,20,20,20,Michael Jordan,USA,1,3,Basketball,1992,35.9
+21,21,21,21,Evander Holyfield,USA,2,1,Boxing,1992,28.0
+22,22,22,22,Ayrton Senna,Brazil,3,5,Auto Racing,1992,22.0
+23,23,23,23,Nigel Mansell,UK,4,9,Auto Racing,1992,14.5
+24,24,24,24,Arnold Palmer,USA,5,8,Golf,1992,11.1
+25,25,25,25,Andre Agassi,USA,6,17,Tennis,1992,11.0
+26,26,26,26,Joe Montana,USA,7,13,NFL,1992,9.5
+27,27,27,27,Sugar Ray Leonard,USA,8,10,Golf,1992,9.2
+28,28,28,28,Jim Courier,USA,9,>40,Tennis,1992,9.0
+29,29,29,29,Monica Seles,USA,10,12,Tennis,1992,8.5
+30,30,30,30,Michael Jordan,USA,1,1,Basketball,1993,36.0
+31,31,31,31,Riddick Bowe,USA,2,>40,Boxing,1993,25.0
+32,32,32,32,Ayrton Senna,Brazil,3,3,Auto racing,1993,18.5
+33,33,33,33,Alain Prost,France,4,>40,Auto Racing,1993,16.0
+34,34,34,34,George Foreman,USA,5,19,Boxing,1993,15.8
+35,35,35,35,Shaquille O'Neal,USA,6,>40,NBA,1993,15.2
+36,36,36,36,Lennox Lewis,USA,7,>40,Boxing,1993,15.0
+37,37,37,37,Cecil Fielder,USA,8,40,Baseball,1993,12.7
+38,38,38,38,Jim Courier,USA,9,9,Tennis,1993,12.6
+39,39,39,39,Joe Montana,USA,10,7,NFL,1993,11.5
+40,40,40,40,Michael Jordan,USA,1,1,Basketball,1994,30.0
+41,41,41,41,Shaq O'Neal,USA,2,6,Basketball,1994,16.7
+42,42,42,42,Jack Nicklaus,USA,3,13,Golf,1994,14.8
+43,43,43,43,Arnold Palmer,USA,4,11,Golf,1994,13.6
+44,44,44,44,Gerhard Berger,Austria,5,30,Auto Racing,1994,13.5
+45,45,45,45,Wayne Gretzky,Canada,5,22,Ice Hockey,1994,13.5
+46,46,46,46,Michael Moorer,USA,7,>40,Boxing,1994,12.1
+47,47,47,47,Evander Holyfield,USA,8,12,Boxing,1994,12.0
+48,48,48,48,Andre Agassi,USA,9,20,Tennis,1994,11.4
+49,49,49,49,Nigel Mansell,UK,10,19,Auto Racing,1994,11.3
+50,50,50,50,Michael Jordan,USA,1,1,basketball,1995,43.9
+51,51,51,51,Mike Tyson,USA,2,not ranked,boxing,1995,40.0
+52,52,52,52,Deion Sanders,USA,3,38,American Football / Baseball,1995,22.5
+53,53,53,53,Riddick Bowe,USA,4,not ranked,boxing,1995,22.2
+54,54,54,54,Shaquille O'Neal,USA,5,2,basketball,1995,21.9
+55,55,55,55,George Foreman,USA,6,15,boxing,1995,18.0
+56,56,56,56,Andre Agassi,USA,7,9,tennis,1995,16.0
+57,57,57,57,Sugar Ray Leonard,USA,8,3,golf,1995,15.1
+58,58,58,58,Michael Schumacher,Germany,9,30,auto racing,1995,15.0
+59,59,59,59,Wayne Gretzky,Canada,10,5,ice hockey,1995,14.5
+60,60,60,60,Mike Tyson,USA,1,2,Boxing,1996,75.0
+61,61,61,61,Michael Jordan,USA,2,1,Basketball,1996,52.6
+62,62,62,62,Michael Schumacher,Germany,3,9,F1 Motorsports,1996,33.0
+63,63,63,63,Shaquille O'Neal,USA,4,5,Basketball,1996,24.4
+64,64,64,64,Emmit Smith,USA,5,not ranked,NFL,1996,16.5
+65,65,65,65,Evander Holyfield,USA,6,14,Boxing,1996,15.5
+66,66,66,66,Andre Agassi,USA,7,7,Tennis,1996,15.2
+67,67,67,67,Arnold Palmer,USA,8,11,Golf,1996,15.1
+68,68,68,68,Dennis Rodman,USA,9,not ranked,Basketball,1996,12.9
+69,69,69,69,Patrick Ewing,USA,9,19,Basketball,1996,12.9
+70,70,70,70,Michael Jordan,USA,1,2,Basketball,1997,78.3
+71,71,71,71,Evander Holyfield,USA,2,6,Boxing,1997,54.3
+72,72,72,72,Oscar De La Hoya,USA,3,17,Boxing,1997,38.0
+73,73,73,73,Michael Schumacher,Germany,4,3,F1 Motorsports,1997,35.0
+74,74,74,74,Mike Tyson,USA,5,1,Boxing,1997,27.0
+75,75,75,75,Tiger Woods,USA,6,26,Golf,1997,26.1
+76,76,76,76,Shaquille O'Neal,USA,7,4,Basketball,1997,25.4
+77,77,77,77,Dale Earnhardt,USA,8,20,NASCAR,1997,19.1
+78,78,78,78,Joe Sakic,Canada,9,none,Hockey,1997,17.9
+79,79,79,79,Grant Hill,USA,10,18,Basketball,1997,17.0
+80,80,80,80,Michael Jordan,USA,1,,Basketball,1998,69.0
+81,81,81,81,Michael Schumacher,Germany,2,,F1 Motorsports,1998,38.0
+82,82,82,82,Sergei Federov,Russia,3,,Ice Hockey,1998,29.8
+83,83,83,83,Tiger Woods,USA,4,,Golf,1998,26.8
+84,84,84,84,Dale Earnhardt,USA,5,,NASCAR,1998,24.1
+85,85,85,85,Grant Hill,USA,6,,Basketball,1998,21.6
+86,86,86,86,Oscar De La Hoya,USA,7,,Boxing,1998,18.5
+87,87,87,87,Patrick Ewing,USA,8,,Basketball,1998,18.3
+88,88,88,88,Arnold Palmer,USA,9,,Golf,1998,18.1
+89,89,89,89,Gary Sheffield,USA,10,,Baseball,1998,17.2
+90,90,90,90,Michael Schumacher,Germany,1,2,Auto Racing,1999,49.0
+91,91,91,91,Tiger Woods,USA,2,4,Golf,1999,47.0
+92,92,92,92,Oscar De La Hoya,USA,3,7,Boxing,1999,43.5
+93,93,93,93,Michael Jordan,USA,4,1,Basketball,1999,40.0
+94,94,94,94,Evander Holyfield,USA,5,>10,Boxing,1999,35.5
+95,95,95,95,Mike Tyson,USA,6,>10,Boxing,1999,33.0
+96,96,96,96,Shaq O'Neal,USA,7,>10,Basketball,1999,31.0
+97,97,97,97,Lennox Lewis,USA,8,>10,Boxing,1999,29.0
+98,98,98,98,Dale Earnhardt,USA,9,5,Auto Racing,1999,26.5
+99,99,99,99,Grant Hill,USA,10,6,Basketball,1999,23.0
+100,100,100,100,Michael Schumacher,Germany,1,1,Auto Racing,2000,59.0
+101,101,101,101,Tiger Woods,USA,2,2,Golf,2000,53.0
+102,102,102,102,Mike Tyson,USA,3,6,Boxing,2000,48.0
+103,103,103,103,Michael Jordan,USA,4,4,Basketball,2000,37.0
+104,104,104,104,Grant Hill,USA,5,10,Basketball,2000,26.0
+105,105,105,105,Dale Earnhardt,USA,6,9,Auto Racing (Nascar),2000,24.5
+106,106,106,106,Shaq O'Neal,USA,7,7,Basketball,2000,24.0
+107,107,107,107,Lennox Lewis,USA,8,8,Boxing,2000,23.0
+108,108,108,108,Oscar De La Hoya,USA,9,3,Boxing,2000,23.0
+109,109,109,109,Kevin Garnett,USA,10,>10,Basketball,2000,21.0
+110,110,110,110,Tiger Woods,USA,1,2,Golf,2002,69.0
+111,111,111,111,Michael Schumacher,Germany,2,1,F1 Motorsports,2002,67.0
+112,112,112,112,Michael Jordan,USA,3,4,Basketball,2002,36.0
+113,113,113,113,Lennox Lewis,USA,4,8,Boxing,2002,28.0
+114,114,114,114,Grant Hill,USA,5,5,Basketball,2002,24.0
+115,115,115,115,Shaquille O'Neal,USA,5,7,Basketball,2002,24.0
+116,116,116,116,Mike Tyson,USA,7,3,Boxing,2002,23.0
+117,117,117,117,Kevin Garnett,USA,7,10,Basketball,2002,23.0
+118,118,118,118,Kobe Bryant,USA,9,>10,Basketball,2002,22.0
+119,119,119,119,Jacques Villeneuve,Canada,10,>10,Auto Racing,2002,20.0
+120,120,120,120,Jeff Gordon,USA,10,>10,Auto Racing (Nascar),2002,20.0
+121,121,121,121,Tiger Woods,USA,1,1,Golf,2003,78.0
+122,122,122,122,Michael Schumacher,Germany,2,2,F1 Motorsports,2003,75.0
+123,123,123,123,Michael Jordan,USA,3,3,Basketball,2003,35.0
+124,124,124,124,Shaq O'Neal,USA,4,5,Basketball,2003,30.5
+125,125,125,125,Oscar De La Hoya,USA,5,>10,Boxing,2003,30.0
+126,126,126,126,Kevin Garnett,USA,6,7,Basketball,2003,28.0
+127,127,127,127,Alex Rodriguez,USA,7,>10,Baseball,2003,26.0
+128,128,128,128,Grant Hill,USA,8,5,Basketball,2003,25.5
+129,129,129,129,Andre Agassi,USA,9,>10,Tennis,2003,24.0
+130,130,130,130,Jacques Villeneuve,Canada,10,10,Auto Racing,2003,23.0
+131,131,131,131,Tiger Woods,USA,1,1,golf,2004,80.3
+132,132,132,132,Michael Schumacher,Germany,2,2,F1 racing,2004,80.0
+133,133,133,133,Peyton Manning,USA,3,>10,American Football,2004,42.0
+134,134,134,134,Michael Jordan,USA,4,3,basketball,2004,35.0
+135,135,135,135,Shaquille O'Neal,USA,5,4,basketball,2004,31.9
+136,136,136,136,Kevin Garnett,USA,6,6,basketball,2004,29.7
+137,137,137,137,Andre Agassi,USA,7,9,tennis,2004,28.2
+138,138,138,138,David Beckham,UK,8,>10,soccer,2004,28.0
+139,139,139,139,Alex Rodriguez,USA,9,7,baseball,2004,26.2
+140,140,140,140,Kobe Bryant,USA,10,>10,basketball,2004,26.1
+141,141,141,141,Tiger Woods,USA,1,1,golf,2005,87.0
+142,142,142,142,Michael Schumacher,Germany,2,2,F1 racing,2005,60.0
+143,143,143,143,Oscar De La Hoya,USA,3,>10,boxing,2005,38.0
+144,144,144,144,Michael Vick,USA,4,>10,American Football,2005,37.5
+145,145,145,145,Shaquille O'Neal,USA,5,5,basketball,2005,33.4
+146,146,146,146,Michael Jordan,USA,6,4,basketball,2005,33.0
+147,147,147,147,David Beckham,UK,7,8,soccer,2005,32.5
+148,148,148,148,Kobe Bryant,USA,8,10,basketball,2005,28.8
+149,149,149,149,Lance Armstrong,USA,9,>10,cycling,2005,28.0
+150,150,150,150,Valentino Rossi,Italy,9,>10,motorcycle gp,2005,28.0
+151,151,151,151,Tiger Woods,USA,1,1,golf,2006,90.0
+152,152,152,152,Michael Schumacher,Germany,2,2,F1 racing,2006,58.0
+153,153,153,153,Muhammad Ali,USA,3,>10,boxing,2006,55.0
+154,154,154,154,Phil Mickelson,USA,4,>10,golf,2006,47.0
+155,155,155,155,Michael Jordan,USA,5,6,basketball,2006,32.0
+156,156,156,156,Kobe Bryant,USA,6,8,basketball,2006,31.0
+157,157,157,157,Shaquille O'Neal,USA,7,5,basketball,2006,30.0
+158,158,158,158,Valentino Rossi,Italy,8,9,motorcycle gp,2006,30.0
+159,159,159,159,Alex Rodriguez,USA,9,>10,baseball,2006,29.0
+160,160,160,160,Tom Brady,USA,9,>10,American Football,2006,29.0
+161,161,161,161,Tiger Woods,USA,1,1,golf,2007,100.0
+162,162,162,162,Oscar De La Hoya,USA,2,>10,boxing,2007,43.0
+163,163,163,163,Phil Mickelson,USA,3,4,golf,2007,42.0
+164,164,164,164,Kimi Raikkonen,Finland,4,>10,F1 racing,2007,40.0
+165,165,165,165,Michael Schumacher,Germany,5,2,F1 racing,2007,36.0
+166,166,166,166,David Beckham,UK,6,>10,soccer,2007,33.0
+167,167,167,167,Kobe Bryant,USA,6,>10,basketball,2007,33.0
+168,168,168,168,Shaquille O'Neal,USA,8,7,basketball,2007,32.0
+169,169,169,169,Ronaldinho,Brazil,9,>10,soccer,2007,31.0
+170,170,170,170,Michael Jordan,USA,9,5,basketball,2007,31.0
+171,171,171,171,Tiger Woods,USA,1,1,golf,2008,115.0
+172,172,172,172,David Beckham,UK,2,6,soccer,2008,50.0
+173,173,173,173,Michael Jordan,USA,3,9,basketball,2008,45.0
+174,174,174,174,Phil Mickelson,USA,3,3,golf,2008,45.0
+175,175,175,175,Kimi Raikkonen,Finland,5,4,F1 racing,2008,44.0
+176,176,176,176,Kobe Bryant,USA,6,7,basketball,2008,39.0
+177,177,177,177,LeBron James,USA,7,>10,basketball,2008,38.0
+178,178,178,178,Ronaldinho,Brazil,8,9,soccer,2008,37.0
+179,179,179,179,Valentino Rossi,Italy,9,>10,motorcycle gp,2008,35.0
+180,180,180,180,Roger Federer,Switzerland,9,>10,tennis,2008,35.0
+181,181,181,181,Tiger Woods,USA,1,1,golf,2009,110.0
+182,182,182,182,Kobe Bryant,USA,2,6,basketball,2009,45.0
+183,183,183,183,Michael Jordan,USA,2,3,basketball,2009,45.0
+184,184,184,184,Kimi Raikkonen,Finland,2,5,F1 racing,2009,45.0
+185,185,185,185,David Beckham,UK,5,2,soccer,2009,42.0
+186,186,186,186,LeBron James,USA,6,7,basketball,2009,40.0
+187,187,187,187,Phil Mickelson,USA,6,3,golf,2009,40.0
+188,188,188,188,Manny Pacquiao,Philippines,6,>10,boxing,2009,40.0
+189,189,189,189,Valentino Rossi,Italy,9,9,motorcycle gp,2009,35.0
+190,190,190,190,Dale Earnhardt Jr.,USA,10,>10,NASCAR,2009,34.0
+191,191,191,191,Tiger Woods,USA,1,1,golf,2010,105.0
+192,192,192,192,Floyd Mayweather,USA,2,>10,boxing,2010,65.0
+193,193,193,193,Kobe Bryant,USA,3,2,basketball,2010,48.0
+194,194,194,194,Phil Mickelson,USA,4,6,golf,2010,46.0
+195,195,195,195,David Beckham,UK,5,5,soccer,2010,43.7
+196,196,196,196,Roger Federer,Switzerland,6,>10,tennis,2010,43.0
+197,197,197,197,LeBron James,USA,7,6,basketball,2010,42.8
+198,198,198,198,Manny Pacquiao,Philippines,8,6,boxing,2010,42.0
+199,199,199,199,Eli Manning,USA,9,>10,American Football,2010,39.9
+200,200,200,200,Terrell Suggs,USA,10,>10,American Football,2010,38.3
+201,201,201,201,Tiger Woods,USA,1,1,golf,2011,75.0
+202,202,202,202,Kobe Bryant,USA,2,3,basketball,2011,53.0
+203,203,203,203,LeBron James,USA,3,7,basketball,2011,48.0
+204,204,204,204,Roger Federer,Switzerland,4,6,tennis,2011,47.0
+205,205,205,205,Phil Mickelson,USA,5,4,golf,2011,46.5
+206,206,206,206,David Beckham,UK,6,5,soccer,2011,40.0
+207,207,207,207,Cristiano Ronaldo,Portugal,7,13,soccer,2011,38.0
+208,208,208,208,Alex Rodriguez,Dominican,8,12,baseball,2011,35.0
+209,209,209,209,Michael Schumacher,Germany,9,>20,F1 racing,2011,34.0
+210,210,210,210,Lionel Messi,Argentina,10,>20,soccer,2011,32.3
+211,211,211,211,Floyd Mayweather,USA,1,?,Boxing,2012,85.0
+212,212,212,212,Manny Pacquiao,Filipino,2,24,Boxing,2012,62.0
+213,213,213,213,Tiger Woods,USA,3,1,Golf,2012,59.4
+214,214,214,214,LeBron James,USA,4,3,Basketball,2012,53.0
+215,215,215,215,Roger Federer,Switzerland,5,4,Tennis,2012,52.7
+216,216,216,216,Kobe Bryant,USA,6,2,Basketball,2012,52.3
+217,217,217,217,Phil Mickelson,USA,7,5,Golf,2012,47.8
+218,218,218,218,David Beckham,UK,8,6,Soccer,2012,46.0
+219,219,219,219,Cristiano Ronaldo,Portugal,9,21,Soccer,2012,42.5
+220,220,220,220,Peyton Manning,USA,10,7,American Football,2012,42.4
+221,221,221,221,Tiger Woods,USA,1,3,Golf,2013,78.1
+222,222,222,222,Roger Federer,Switzerland,2,5,Tennis,2013,71.5
+223,223,223,223,Kobe Bryant,USA,3,6,Basketball,2013,61.9
+224,224,224,224,LeBron James,USA,4,4,Basketball,2013,59.8
+225,225,225,225,Drew Brees,USA,5,?,American Football,2013,51.0
+226,226,226,226,Aaron Rodgers,USA,6,?,American Football,2013,49.0
+227,227,227,227,Phil Mickelson,USA,7,7,Golf,2013,48.7
+228,228,228,228,David Beckham,UK,8,8,Soccer,2013,47.2
+229,229,229,229,Cristiano Ronaldo,Portugal,9,9,Soccer,2013,44.0
+230,230,230,230,Lionel Messi,Argentina,10,11,Soccer,2013,41.3
+231,231,231,231,Floyd Mayweather,USA,1,14,Boxing,2014,105.0
+232,232,232,232,Cristiano Ronaldo,Portugal,2,9,Soccer,2014,80.0
+233,233,233,233,LeBron James,USA,3,4,Basketball,2014,72.3
+234,234,234,234,Lionel Messi,Argentina,4,10,Soccer,2014,64.7
+235,235,235,235,Kobe Bryant,USA,5,3,Basketball,2014,61.5
+236,236,236,236,Tiger Woods,USA,6,1,Golf,2014,61.2
+237,237,237,237,Roger Federer,Switzerland,7,2,Tennis,2014,56.2
+238,238,238,238,Phil Mickelson,USA,8,7,Golf,2014,53.2
+239,239,239,239,Rafael Nadal,Spain,9,>14,Tennis,2014,44.5
+240,240,240,240,Matt Ryan,USA,10,>100,American Football,2014,43.8
+241,241,241,241,Floyd Mayweather,USA,1,1,Boxing,2015,300.0
+242,242,242,242,Manny Pacquiao,Philippines,2,11,Boxing,2015,160.0
+243,243,243,243,Cristiano Ronaldo,Portugal,3,2,Soccer,2015,79.6
+244,244,244,244,Lionel Messi,Argentina,4,4,Soccer,2015,73.8
+245,245,245,245,Roger Federer,Switzerland,5,7,Tennis,2015,67.0
+246,246,246,246,LeBron James,USA,6,3,Basketball,2015,64.8
+247,247,247,247,Kevin Durant,USA,7,20,Basketball,2015,54.2
+248,248,248,248,Phil Mickelson,USA,8,8,Golf,2015,50.8
+249,249,249,249,Tiger Woods,USA,9,6,Golf,2015,50.6
+250,250,250,250,Kobe Bryant,USA,10,5,Basketball,2015,49.5
+251,251,251,251,Cristiano Ronaldo,Portugal,1,3,Soccer,2016,88.0
+252,252,252,252,Lionel Messi,Argentina,2,4,Soccer,2016,81.4
+253,253,253,253,LeBron James,USA,3,6,Basketball,2016,77.2
+254,254,254,254,Roger Federer,Switzerland,4,5,Tennis,2016,67.8
+255,255,255,255,Kevin Durant,USA,5,7,Basketball,2016,56.2
+256,256,256,256,Novak Djokovic,Serbia,6,13,Tennis,2016,55.8
+257,257,257,257,Cam Newton,USA,7,>20,American Football,2016,53.1
+258,258,258,258,Phil Mickelson,USA,8,8,Golf,2016,52.9
+259,259,259,259,Jordan Spieth,USA,9,>20,Golf,2016,52.8
+260,260,260,260,Kobe Bryant,USA,10,10,Basketball,2016,50.0
+261,261,261,261,Cristiano Ronaldo,Portugal,1,1,Soccer,2017,93.0
+262,262,262,262,LeBron James,USA,2,3,Basketball,2017,86.2
+263,263,263,263,Lionel Messi,Argentina,3,2,Soccer,2017,80.0
+264,264,264,264,Roger Federer,Switzerland,4,4,Tennis,2017,64.0
+265,265,265,265,Kevin Durant,USA,5,5,Basketball,2017,60.6
+266,266,266,266,Andrew Luck,USA,6,,American Football,2017,50.0
+267,267,267,267,Rory McIlroy,Northern Ireland,6,17,Golf,2017,50.0
+268,268,268,268,Stephen Curry,USA,8,,Basketball,2017,47.3
+269,269,269,269,James Harden,USA,9,,Basketball,2017,46.6
+270,270,270,270,Lewis Hamilton,UK,10,,auto racing,2017,46.0
+271,271,271,271,Floyd Mayweather,USA,1,>100,Boxing,2018,285.0
+272,272,272,272,Lionel Messi,Argentina,2,3,Soccer,2018,111.0
+273,273,273,273,Cristiano Ronaldo,Portugal,3,1,Soccer,2018,108.0
+274,274,274,274,Conor McGregor,Ireland,4,24,MMA,2018,99.0
+275,275,275,275,Neymar,Brazil,5,18,Soccer,2018,90.0
+276,276,276,276,LeBron James,USA,6,2,Basketball,2018,85.5
+277,277,277,277,Roger Federer,Switzerland,7,4,Tennis,2018,77.2
+278,278,278,278,Stephen Curry,USA,8,8,Basketball,2018,76.9
+279,279,279,279,Matt Ryan,USA,9,>100,American Football,2018,67.3
+280,280,280,280,Matthew Stafford,USA,10,>100,American Football,2018,59.5
+281,281,281,281,Lionel Messi,Argentina,1,2,Soccer,2019,127.0
+282,282,282,282,Cristiano Ronaldo,Portugal,2,3,Soccer,2019,109.0
+283,283,283,283,Neymar,Brazil,3,5,Soccer,2019,105.0
+284,284,284,284,Canelo Alvarez,Mexico,4,15,Boxing,2019,94.0
+285,285,285,285,Roger Federer,Switzerland,5,7,Tennis,2019,93.4
+286,286,286,286,Russell Wilson,USA,6,??,American Football,2019,89.5
+287,287,287,287,Aaron Rogers,USA,7,??,American Football,2019,89.3
+288,288,288,288,LeBron James,USA,8,6,Basketball,2019,89.0
+289,289,289,289,Stephen Curry,USA,9,8,Basketball,2019,79.8
+290,290,290,290,Kevin Durant,USA,10,11,Basketball,2019,65.4
+291,291,291,291,Roger Federer,Switzerland,1,5,Tennis,2020,106.3
+292,292,292,292,Cristiano Ronaldo,Portugal,2,2,Soccer,2020,105.0
+293,293,293,293,Lionel Messi,Argentina,3,1,Soccer,2020,104.0
+294,294,294,294,Neymar,Brazil,4,3,Soccer,2020,95.5
+295,295,295,295,LeBron James,USA,5,8,Basketball,2020,88.2
+296,296,296,296,Stephen Curry,USA,6,9,Basketball,2020,74.4
+297,297,297,297,Kevin Durant,USA,7,10,Basketball,2020,63.9
+298,298,298,298,Tiger Woods,USA,8,11,Golf,2020,62.3
+299,299,299,299,Kirk Cousins,USA,9,>100,American Football,2020,60.5
+300,300,300,300,Carson Wentz,USA,10,>100,American Football,2020,59.1
