@@ -1,5 +1,11 @@
 from datetime import datetime
 
+
+
+
+
+
+
 def get_primes(upper_limit):
     # Initialize the list of primes for the basic ones
     primes = [2]
