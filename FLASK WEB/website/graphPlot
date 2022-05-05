@@ -22,15 +22,14 @@ import matplotlib.pyplot as plt
 # creating the dataset
 
   
-fig = plt.figure(figsize = (10, 5))
+fig = plt.figure(figsize = (15, 5))
  
 # creating the bar plot
-plt.bar(nationality, currentrank, color ='maroon',
-        width = 0.4)
+plt.barh(nationality, currentrank, color ='maroon')
  
-plt.xlabel("Nationality")
-plt.ylabel("Amount of Rich Athletes")
+plt.xlabel("Amount of Rich Athletes")
+plt.ylabel("Nationality")
 plt.title("Rich Athletes")
 
-plt.savefig("plot.png")
+plt.savefig("website/static/plot.png")
 plt.show()
