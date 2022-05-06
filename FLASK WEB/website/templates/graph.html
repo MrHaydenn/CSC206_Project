@@ -1,0 +1,25 @@
+{% extends "base.html" %} {% block title %}Graph{% endblock %} {% block content
+    %}
+
+
+    <h1 align="center">Richest Athletes Graph Data</h1>
+
+    
+        <select name = "dropdown">
+           <option value = "Name" selected>Name</option>
+           <option value = "Nationality">Nationality</option>
+        </select>
+        <input type = "submit" value = Submit>
+
+
+
+
+    <body>
+        <div align="center">
+            <img src="{{url_for('static', filename='plot.png')}}"/>
+        </div>
+    </body>
+
+    
+
+    {% endblock %}

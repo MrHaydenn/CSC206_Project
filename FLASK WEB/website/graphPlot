@@ -1,0 +1,33 @@
+from matplotlib import pyplot as plt
+from pandas import *
+import csv
+
+
+
+data = read_csv("richathletes.csv") 
+id = data[''].tolist()
+name = data['name'].tolist()
+nationality = data['nationality'].tolist()
+currentrank = data['currentrank'].tolist()
+prevyearrank = data['prevyearrank'].tolist()
+sport = data['sport'].tolist()
+year = data['year'].tolist()
+earnings = data['earnings'].tolist()
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+ 
+  
+  
+fig = plt.figure(figsize = (8, 5))
+
+plt.barh(nationality, id, color ='maroon')
+ 
+plt.xlabel("Amount of Rich Athletes")
+plt.ylabel("Nationality")
+plt.title("Rich Athletes")
+
+plt.savefig("website/static/plot.png")
+plt.show()

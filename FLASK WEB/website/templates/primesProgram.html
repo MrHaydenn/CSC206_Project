@@ -1,23 +1,38 @@
 {% extends "base.html" %} {% block title %}Primes Program{% endblock %} {% block content
     %}
-
+from primes import results, found, upper limit
 
 
     <h1 align="center">Primes Program</h1>
 
-    <form method="POST"> 
+      <form method="POST"> 
+      
         <h3 align="left">Enter an upper limit.</h3>
+
+  
+        
+        
+
         <div class="form-group">
           <input 
           type="number"
-          id="get_primes" />
+          id="upper_limit" />
+      </form>
 
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
+        {% if upper_limit %}
+        <h2 align="left">Your Upper Limit: {{upper_limit}}</h2>
+        {% endif %}
+      
+
+      <form method="POST">
+        {% if results %}
+        <h2>Prime Numbers Generated: {{ results }}</h2>
+        {% endif %}
       </form>
+    
 
-
-      <h2>Prime Numbers Generated: {{ results }}</h2>
-    </form>
-
+    
     {% endblock %}
+  </form>
